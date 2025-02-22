@@ -64,11 +64,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/dishantnaik03/Leetcode/tree/master/0001-two-sum) |
 | [0496-next-greater-element-i](https://github.com/dishantnaik03/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/dishantnaik03/Leetcode/tree/master/0682-baseball-game) |
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/dishantnaik03/Leetcode/tree/master/0001-two-sum) |
 | [0496-next-greater-element-i](https://github.com/dishantnaik03/Leetcode/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
