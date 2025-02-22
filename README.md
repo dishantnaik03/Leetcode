@@ -43,4 +43,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/dishantnaik03/Leetcode/tree/master/0070-climbing-stairs) |
+## String
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/dishantnaik03/Leetcode/tree/master/1078-remove-outermost-parentheses) |
+## Stack
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/dishantnaik03/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
