@@ -46,11 +46,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/dishantnaik03/Leetcode/tree/master/0020-valid-parentheses) |
 | [1078-remove-outermost-parentheses](https://github.com/dishantnaik03/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [2128-reverse-prefix-of-word](https://github.com/dishantnaik03/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/dishantnaik03/Leetcode/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/dishantnaik03/Leetcode/tree/master/0496-next-greater-element-i) |
 | [1078-remove-outermost-parentheses](https://github.com/dishantnaik03/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [2128-reverse-prefix-of-word](https://github.com/dishantnaik03/Leetcode/tree/master/2128-reverse-prefix-of-word) |
