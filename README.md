@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/dishantnaik03/Leetcode/tree/master/0020-valid-parentheses) |
+| [0800-letter-case-permutation](https://github.com/dishantnaik03/Leetcode/tree/master/0800-letter-case-permutation) |
 | [1078-remove-outermost-parentheses](https://github.com/dishantnaik03/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [2128-reverse-prefix-of-word](https://github.com/dishantnaik03/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [3447-clear-digits](https://github.com/dishantnaik03/Leetcode/tree/master/3447-clear-digits) |
@@ -94,4 +95,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/dishantnaik03/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/dishantnaik03/Leetcode/tree/master/0206-reverse-linked-list) |
+## Backtracking
+|  |
+| ------- |
+| [0800-letter-case-permutation](https://github.com/dishantnaik03/Leetcode/tree/master/0800-letter-case-permutation) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0800-letter-case-permutation](https://github.com/dishantnaik03/Leetcode/tree/master/0800-letter-case-permutation) |
 <!---LeetCode Topics End-->
