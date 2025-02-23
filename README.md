@@ -72,11 +72,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/dishantnaik03/Leetcode/tree/master/0001-two-sum) |
 | [0496-next-greater-element-i](https://github.com/dishantnaik03/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/dishantnaik03/Leetcode/tree/master/0682-baseball-game) |
+| [1039-find-the-town-judge](https://github.com/dishantnaik03/Leetcode/tree/master/1039-find-the-town-judge) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dishantnaik03/Leetcode/tree/master/0001-two-sum) |
 | [0496-next-greater-element-i](https://github.com/dishantnaik03/Leetcode/tree/master/0496-next-greater-element-i) |
+| [1039-find-the-town-judge](https://github.com/dishantnaik03/Leetcode/tree/master/1039-find-the-town-judge) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -105,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0800-letter-case-permutation](https://github.com/dishantnaik03/Leetcode/tree/master/0800-letter-case-permutation) |
+## Graph
+|  |
+| ------- |
+| [1039-find-the-town-judge](https://github.com/dishantnaik03/Leetcode/tree/master/1039-find-the-town-judge) |
 <!---LeetCode Topics End-->
