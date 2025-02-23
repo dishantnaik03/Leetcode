@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/dishantnaik03/Leetcode/tree/master/0020-valid-parentheses) |
+| [0345-reverse-vowels-of-a-string](https://github.com/dishantnaik03/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0800-letter-case-permutation](https://github.com/dishantnaik03/Leetcode/tree/master/0800-letter-case-permutation) |
 | [1078-remove-outermost-parentheses](https://github.com/dishantnaik03/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [2128-reverse-prefix-of-word](https://github.com/dishantnaik03/Leetcode/tree/master/2128-reverse-prefix-of-word) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/dishantnaik03/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [2128-reverse-prefix-of-word](https://github.com/dishantnaik03/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 ## Array
 |  |
