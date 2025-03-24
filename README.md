@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/dishantnaik03/Leetcode/tree/master/0070-climbing-stairs) |
+| [2812-find-the-maximum-achievable-number](https://github.com/dishantnaik03/Leetcode/tree/master/2812-find-the-maximum-achievable-number) |
 ## Dynamic Programming
 |  |
 | ------- |
