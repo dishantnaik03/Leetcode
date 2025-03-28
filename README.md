@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/dishantnaik03/Leetcode/tree/master/0020-valid-parentheses) |
+| [0242-valid-anagram](https://github.com/dishantnaik03/Leetcode/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/dishantnaik03/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0800-letter-case-permutation](https://github.com/dishantnaik03/Leetcode/tree/master/0800-letter-case-permutation) |
 | [1078-remove-outermost-parentheses](https://github.com/dishantnaik03/Leetcode/tree/master/1078-remove-outermost-parentheses) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dishantnaik03/Leetcode/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/dishantnaik03/Leetcode/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/dishantnaik03/Leetcode/tree/master/0496-next-greater-element-i) |
 | [1039-find-the-town-judge](https://github.com/dishantnaik03/Leetcode/tree/master/1039-find-the-town-judge) |
 ## Monotonic Stack
@@ -113,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1039-find-the-town-judge](https://github.com/dishantnaik03/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1916-find-center-of-star-graph](https://github.com/dishantnaik03/Leetcode/tree/master/1916-find-center-of-star-graph) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/dishantnaik03/Leetcode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
