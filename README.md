@@ -66,12 +66,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/dishantnaik03/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/dishantnaik03/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [2128-reverse-prefix-of-word](https://github.com/dishantnaik03/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 ## Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dishantnaik03/Leetcode/tree/master/0001-two-sum) |
+| [0088-merge-sorted-array](https://github.com/dishantnaik03/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0496-next-greater-element-i](https://github.com/dishantnaik03/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/dishantnaik03/Leetcode/tree/master/0682-baseball-game) |
 | [1039-find-the-town-judge](https://github.com/dishantnaik03/Leetcode/tree/master/1039-find-the-town-judge) |
@@ -118,5 +120,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/dishantnaik03/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/dishantnaik03/Leetcode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
